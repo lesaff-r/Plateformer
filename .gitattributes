@@ -2,3 +2,4 @@ Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset filter=lfs di
 Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset filter=lfs diff=lfs merge=lfs -text
 Content/2DSideScrollerBP/Blueprints/Plateform_BP.uasset filter=lfs diff=lfs merge=lfs -text
 Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap filter=lfs diff=lfs merge=lfs -text
+Content/2DSideScrollerBP/Blueprints/Ennemi.uasset filter=lfs diff=lfs merge=lfs -text
